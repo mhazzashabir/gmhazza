@@ -9,23 +9,3 @@ Hey! I am Muhammad Hazza Shabir, a Software Engineer from Pakistan who is pursui
 ![](https://streak-stats.demolab.com/?user=gmhazza&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=gmhazza&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="./assets/blueprint-schematic.svg" alt="{{name}} — profile assembly" width="100%" />
-</p>
-
-### 01 — hero
-
-{{section_one_note}}
-
-### 02 — currently
-
-{{section_two_note}}
-
-### 03 — work
-
-- **{{project_one_name}}** — {{project_one_desc}}
-- **{{project_two_name}}** — {{project_two_desc}}
-
-### 04 — contact
-
-[{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
